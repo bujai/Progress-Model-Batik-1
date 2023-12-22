@@ -1,4 +1,4 @@
-# Nama Proyek Anda: Product-based Capstone Project
+# Nama Proyek: Product-based Capstone Project CH2-PS508
 
 ## Tentang Proyek
 
