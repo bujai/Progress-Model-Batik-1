@@ -21,8 +21,8 @@ Ditujukan sebagai sumber informasi yang andal bagi pelancong, platform ini diran
 
 Kami sedang mengerjakan model untuk mendeteksi tipe-tipe Batik khas Indonesia. Berikut adalah link untuk melihat progres kami:
 
-- [Model Batik](https://drive.google.com/drive/folders/1vwg-LBcYlPfKSKj4eA8xNSsfJ8nkvvL-?usp=sharing)
-- [Foto Batik](https://drive.google.com/drive/folders/1P2dJ6E-5c7P5n8k4mTIlYXI5Y6mY22Vh?usp=sharing)
+- [Model Batik Tensorflow dan Tensorflow Lite](https://drive.google.com/drive/folders/1vwg-LBcYlPfKSKj4eA8xNSsfJ8nkvvL-?usp=sharing)
+- [Foto Batik Jogjakarta](https://drive.google.com/drive/folders/1P2dJ6E-5c7P5n8k4mTIlYXI5Y6mY22Vh?usp=sharing)
 
 
 ## File Model Rekomendasi Wisata:
