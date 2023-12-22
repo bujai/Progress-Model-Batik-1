@@ -32,7 +32,7 @@ Rekomendasi_Wisata.py
 Mendeteksi_Batik_Jogjakarta.py
 
 
-## ScreenShot Aplikasi Mobile dengan Kivy python
+## ScreenShot Aplikasi Mobile dengan Kivy python (Mengetes Model Di Python)
 Jalankan file:
 Rekomendasi_Wisata.py dan terhubung dengan file firebase_auth.py
 
