@@ -52,7 +52,7 @@ Rekomendasi_Wisata.py dan terhubung dengan file firebase_auth.py
 5. Tampilan Awal Mendeteksi Foto:
 ![Screenshot 2023-12-22 13-47-11](https://github.com/bujai/Progress-Model-Batik-1/assets/61942197/bdec36d8-9dbe-44f1-a9f6-8a3f97c894f0)
 
-6. Upload Foto Batik
+6. Upload Foto Batik dan muncul Popup:
 ![Screenshot 2023-12-22 13-48-36](https://github.com/bujai/Progress-Model-Batik-1/assets/61942197/99708636-aca5-440f-8b7b-6f9c8275e48a)
 
 7. ketika udah pilih foto maka di foto nya akan muncul:
